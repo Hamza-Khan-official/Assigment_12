@@ -1,6 +1,7 @@
 * {
     padding: 0px;
     margin: 0px;
+    
 }
 
 /* Navbar */
@@ -13,10 +14,6 @@
     margin-top: 20px;
 
     /* margin-bottom: 20px; */
-}
-
-#navbar {
-    /* border: 3px solid green; */
 }
 
 
@@ -911,11 +908,6 @@
     color: #38a169;
 }
 
-#layout_7_links_2_1 {}
-
-#layout_7_links_2_2 {}
-
-#layout_7_links_2_3 {}
 
 /* <!-- LAYOUT 7 CLOSING --> */
 
